@@ -1,0 +1,14 @@
+{
+    "id": "string",
+    "firstName": "Stephen",
+    "lastName": "Chao",
+    "age": 52,
+    "occupation": "actor",
+    "nationality": "Hongkong",
+    "hobbies": [
+      "kung fu"
+    ],
+    "gender": "MALE",
+    "createdDate": "2023-01-28T21:55:16.2648288",
+    "updatedDate": null
+  }

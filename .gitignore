@@ -1,0 +1,5 @@
+node_modules
+allure-results
+coverage
+jest-allure\dist\setup
+url.html

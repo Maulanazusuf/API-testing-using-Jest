@@ -1,0 +1,14 @@
+{
+    "id": "string",
+    "firstName": "Jackie",
+    "lastName": "Chan",
+    "age": 55,
+    "occupation": "actor",
+    "nationality": "Hongkong",
+    "hobbies": [
+      "Taichi"
+    ],
+    "gender": "MALE",
+    "createdDate": "2023-01-28T21:55:16.2648288",
+    "updatedDate": null
+  }
